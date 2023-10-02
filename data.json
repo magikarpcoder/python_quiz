@@ -1,0 +1,56 @@
+{  
+    "ques" : [  
+        "Q1. What is the capital of Japan?",  
+        "Q2. Which is the largest continent?",  
+        "Q3. Two cities that are the anagram of each other?",  
+        "Q4. The most isolated metropolis city?",  
+        "Q5. The Capital of hawai?",
+        "Q6. The capital of south korea?"
+
+
+    ],  
+    "ans" : [  
+        1,  
+        2,  
+        4,  
+        3,  
+        2,
+        1
+    ],  
+    "choices" : [  
+        [  
+        "Bratislava",  
+        "osaka",  
+        "Sendai",  
+        "Yokohama"  
+        ],  
+        [  
+        "Africa",  
+        "Asia",  
+        "Australia",  
+        "Europe"  
+        ],  
+        [  
+        "Zurich and Bratislava",  
+        "Kyoto and Tokyo",  
+        "Nara and Beijing",  
+        "Seoul of pyangong"  
+        ],  
+        [  
+        "Perth",  
+        "Sydney",  
+        "Melbourne",  
+        "Brisbane"  
+        ],  
+        [  
+        "Portland",  
+        "Honululu",  
+        "Los Angeles",  
+        "Seatle"  
+        ],
+        ["seoul",
+        "pyangong",
+         "busan",
+          "incheon"]
+    ]  
+}  
